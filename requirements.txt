@@ -1,0 +1,4 @@
+this is an application
+type option
+emoji
+colors

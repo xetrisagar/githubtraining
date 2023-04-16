@@ -2,3 +2,5 @@ this is an application
 type option
 emoji
 colors
+dark mode
+video
